@@ -8,7 +8,6 @@ dependencies:
   - anaconda-client=1.7.2
   - anaconda-navigator=1.9.12
   - applaunchservices=0.2.1
-  - appnope=0.1.0
   - argh=0.26.2
   - astroid=2.4.2
   - atomicwrites=1.4.0
@@ -81,7 +80,6 @@ dependencies:
   - libcxx=10.0.0
   - libedit=3.1.20191231
   - libffi=3.2.1
-  - libgfortran=4.0.0
   - libiconv=1.15
   - liblapack=3.8.0
   - liblief=0.9.0
@@ -148,7 +146,6 @@ dependencies:
   - python-jsonrpc-server=0.3.4
   - python-language-server=0.34.1
   - python-libarchive-c=2.9
-  - python.app=1.3
   - python_abi=3.7
   - pytz=2020.1
   - pyyaml=5.3.1
